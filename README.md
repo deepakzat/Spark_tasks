@@ -14,4 +14,4 @@ Prediction using Unsupervised ML
 
 Predict the optimum number of clusters from the 'Iris' dataset and to represent it visually.
 
-Algorithms used: K-Means Algorithm
+Algorithms used: K-Means clustering Algorithm
